@@ -107,7 +107,19 @@ LOG_LEVEL = "INFO"
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "ufc_scraper.pipelines.UfcScraperPipeline": 300,
-#}
+ITEM_PIPELINES = {
+    "ufc_scraper.pipelines.CleaningPipeline": 100,
+    # Scrapy's built-in media pipeline: downloads the file at image_urls and
+    # writes checksum/path info to `images`. Runs after cleaning (so dropped
+    # non-UFC fighters never trigger a download) and before our own metadata
+    # stage (which needs the file to already be on disk).
+    "scrapy.pipelines.images.ImagesPipeline": 200,
+    "ufc_scraper.pipelines.ImageMetadataPipeline": 250,
+    "ufc_scraper.pipelines.CsvStoragePipeline": 300,
+}
+
+# Portraits are real downloaded files, not just parsed HTML -- kept outside
+# data/ (gitignored) since only cleaned/processed CSVs belong in the repo.
+IMAGES_STORE = "../data/images"
+
 

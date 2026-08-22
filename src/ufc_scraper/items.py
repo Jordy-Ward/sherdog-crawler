@@ -17,6 +17,7 @@ class EventItem(scrapy.Item):
     name = scrapy.Field()
     date_raw = scrapy.Field()
     location_raw = scrapy.Field()
+    date = scrapy.Field()
     
     source_url = scrapy.Field()
     scraped_at = scrapy.Field()
@@ -29,6 +30,7 @@ class FightItem(scrapy.Item):
     event_id = scrapy.Field()
     event_name = scrapy.Field()
     event_date_raw = scrapy.Field()
+    event_date = scrapy.Field()
     
     # two fighters of the fight
     fighter_a_id = scrapy.Field()
@@ -55,6 +57,9 @@ class FightItem(scrapy.Item):
     # method
     method_raw = scrapy.Field()
     
+    method_category = scrapy.Field()
+    method_subtype = scrapy.Field()
+    
     # provenance where data came form 
     source_url = scrapy.Field()
     scraped_at = scrapy.Field() # when it was collected
@@ -69,10 +74,40 @@ class FighterItem(scrapy.Item):
     scraped_at = scrapy.Field()
     
     birth_date_raw = scrapy.Field()
+    birth_date = scrapy.Field()
     nationality = scrapy.Field()
     height_raw = scrapy.Field()
+    height_cm = scrapy.Field()
     weight_raw = scrapy.Field()
+    weight_kg = scrapy.Field()
     association = scrapy.Field()
+
+    # portrait photo. image_urls/images are the fields Scrapy's media pipeline
+    # reads and writes; the rest are what OUR pipeline derives from the file
+    # once it has actually been downloaded to disk.
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
+    image_path = scrapy.Field()
+    image_width = scrapy.Field()
+    image_height = scrapy.Field()
+    image_kb = scrapy.Field()
+
+
+class EventAttendanceItem(scrapy.Item):
+    """One row of Wikipedia's UFC events table. A second domain, joined back
+    onto the Sherdog data by date rather than by name -- the two sites don't
+    agree on how an event is titled, but they agree on when it happened."""
+
+    event_name_raw = scrapy.Field()
+    date_raw = scrapy.Field()
+    date = scrapy.Field()
+    venue = scrapy.Field()
+    location_raw = scrapy.Field()
+    attendance_raw = scrapy.Field()
+    attendance = scrapy.Field()
+
+    source_url = scrapy.Field()
+    scraped_at = scrapy.Field()
     
     
     
