@@ -1,0 +1,709 @@
+event_name_raw,date_raw,date,venue,location_raw,attendance_raw,attendance,source_url,scraped_at
+UFC 330: Makhachev vs. Machado Garry,"Aug 15, 2026",2026-08-15,Xfinity Mobile Arena,"Philadelphia , Pennsylvania , U.S.","19,236",19236,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gamrot vs. Salkilld,"Aug 8, 2026",2026-08-08,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Medić vs. Rodriguez,"Aug 1, 2026",2026-08-01,Belgrade Arena,"Belgrade , Serbia","18,623",18623,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Ankalaev vs. Guskov,"Jul 25, 2026",2026-07-25,Etihad Arena,"Abu Dhabi , United Arab Emirates",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: du Plessis vs. Usman,"Jul 18, 2026",2026-07-18,Paycom Center,"Oklahoma City , Oklahoma , U.S.","17,173",17173,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 329: McGregor vs. Holloway 2,"Jul 11, 2026",2026-07-11,T-Mobile Arena,"Las Vegas , Nevada , U.S.","20,078",20078,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Fiziev vs. Torres,"Jun 27, 2026",2026-06-27,National Gymnastics Arena,"Baku , Azerbaijan",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Kape vs. Horiguchi,"Jun 20, 2026",2026-06-20,Meta Apex,"Las Vegas , Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Freedom 250,"Jun 14, 2026",2026-06-14,White House,"Washington, D.C. , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Muhammad vs. Bonfim,"Jun 6, 2026",2026-06-06,Meta Apex,"Las Vegas , Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Song vs. Figueiredo,"May 30, 2026",2026-05-30,Galaxy Arena,"Macau SAR , China","12,647",12647,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Allen vs. Costa,"May 16, 2026",2026-05-16,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 328: Chimaev vs. Strickland,"May 9, 2026",2026-05-09,Prudential Center,"Newark, New Jersey , U.S.","17,783",17783,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Della Maddalena vs. Prates,"May 2, 2026",2026-05-02,RAC Arena,"Perth , Australia","13,839",13839,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Sterling vs. Zalal,"Apr 25, 2026",2026-04-25,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Burns vs. Malott,"Apr 18, 2026",2026-04-18,Canada Life Centre,"Winnipeg , Manitoba , Canada","14,051",14051,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 327: Procházka vs. Ulberg,"Apr 11, 2026",2026-04-11,Kaseya Center,"Miami, Florida , U.S.","17,741",17741,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moicano vs. Duncan,"Apr 4, 2026",2026-04-04,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Adesanya vs. Pyfer,"Mar 28, 2026",2026-03-28,Climate Pledge Arena,"Seattle, Washington , U.S.","17,854",17854,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Evloev vs. Murphy,"Mar 21, 2026",2026-03-21,The O,"London , England","18,629",18629,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Emmett vs. Vallejos,"Mar 14, 2026",2026-03-14,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 326: Holloway vs. Oliveira 2,"Mar 7, 2026",2026-03-07,T-Mobile Arena,"19,480",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moreno vs. Kavanagh,"Feb 28, 2026",2026-02-28,Arena CDMX,"Mexico City , Mexico","16,454",16454,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Strickland vs. Hernandez,"Feb 21, 2026",2026-02-21,Toyota Center,"Houston , Texas , U.S.","17,160",17160,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bautista vs. Oliveira,"Feb 7, 2026",2026-02-07,Meta Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 325: Volkanovski vs. Lopes 2,"Feb 1, 2026",2026-02-01,Qudos Bank Arena,"Sydney , Australia","18,102",18102,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 324: Gaethje vs. Pimblett,"Jan 24, 2026",2026-01-24,T-Mobile Arena,"Las Vegas , Nevada , U.S.","19,481",19481,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Royval vs. Kape,"Dec 13, 2025",2025-12-13,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 323: Dvalishvili vs. Yan 2,"Dec 6, 2025",2025-12-06,T-Mobile Arena,"18,603",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Tsarukyan vs. Hooker,"Nov 22, 2025",2025-11-22,Ali Bin Hamad al-Attiyah Arena,"Al Rayyan , Qatar",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 322: Della Maddalena vs. Makhachev,"Nov 15, 2025",2025-11-15,Madison Square Garden,"New York City, New York , U.S.","20,664",20664,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bonfim vs. Brown,"Nov 8, 2025",2025-11-08,UFC Apex,"Las Vegas , Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 321: Aspinall vs. Gane,"Oct 25, 2025",2025-10-25,Etihad Arena,"Abu Dhabi , United Arab Emirates","13,220",13220,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: de Ridder vs. Allen,"Oct 18, 2025",2025-10-18,Rogers Arena,"Vancouver , British Columbia , Canada","17,671",17671,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Oliveira vs. Gamrot,"Oct 11, 2025",2025-10-11,Farmasi Arena,"Rio de Janeiro , Brazil","16,297",16297,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 320: Ankalaev vs. Pereira 2,"Oct 4, 2025",2025-10-04,T-Mobile Arena,"Las Vegas , Nevada , U.S.","19,081",19081,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Ulberg vs. Reyes,"Sep 28, 2025",2025-09-28,RAC Arena,"Perth , Australia","12,543",12543,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lopes vs. Silva,"Sep 13, 2025",2025-09-13,Frost Bank Center,"San Antonio, Texas , U.S.","18,005",18005,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Imavov vs. Borralho,"Sep 6, 2025",2025-09-06,Accor Arena,"Paris , France","15,724",15724,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Walker vs. Zhang,"Aug 23, 2025",2025-08-23,Shanghai Indoor Stadium,"Shanghai , China",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 319: du Plessis vs. Chimaev,"Aug 16, 2025",2025-08-16,United Center,"Chicago, Illinois , U.S.","20,023",20023,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Dolidze vs. Hernandez,"Aug 9, 2025",2025-08-09,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Whittaker vs. de Ridder,"Jul 26, 2025",2025-07-26,Etihad Arena,"Abu Dhabi , United Arab Emirates",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 318: Holloway vs. Poirier 3,"Jul 19, 2025",2025-07-19,Smoothie King Center,"New Orleans , Louisiana , U.S.","18,138",18138,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Lewis vs. Teixeira,"Jul 12, 2025",2025-07-12,Bridgestone Arena,"Nashville , Tennessee , U.S.","17,007",17007,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 317: Topuria vs. Oliveira,"Jun 28, 2025",2025-06-28,T-Mobile Arena,"Las Vegas , Nevada , U.S.","19,800",19800,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Hill vs. Rountree Jr.,"Jun 21, 2025",2025-06-21,Baku Crystal Hall,"Baku , Azerbaijan","14,424",14424,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Usman vs. Buckley,"Jun 14, 2025",2025-06-14,State Farm Arena,"Atlanta, Georgia , U.S.","17,204",17204,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 316: Dvalishvili vs. O'Malley 2,"Jun 7, 2025",2025-06-07,Prudential Center,"Newark, New Jersey , U.S.","17,343",17343,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Gamrot vs. Klein,"May 31, 2025",2025-05-31,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 315: Muhammad vs. Della Maddalena,"May 10, 2025",2025-05-10,Bell Centre,"Montreal , Quebec , Canada","19,786",19786,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Sandhagen vs. Figueiredo,"May 3, 2025",2025-05-03,Wells Fargo Arena,"Des Moines, Iowa , U.S.","15,627",15627,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Machado Garry vs. Prates,"Apr 26, 2025",2025-04-26,T-Mobile Center,"Kansas City, Missouri , U.S.","15,984",15984,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 314: Volkanovski vs. Lopes,"Apr 12, 2025",2025-04-12,Kaseya Center,"Miami, Florida , U.S.","18,287",18287,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Emmett vs. Murphy,"Apr 5, 2025",2025-04-05,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Moreno vs. Erceg,"Mar 29, 2025",2025-03-29,Arena CDMX,"Mexico City , Mexico","19,731",19731,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Edwards vs. Brady,"Mar 22, 2025",2025-03-22,The O,"London , England","18,583",18583,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Vettori vs. Dolidze 2,"Mar 15, 2025",2025-03-15,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 313: Pereira vs. Ankalaev,"Mar 8, 2025",2025-03-08,T-Mobile Arena,"18,869",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Kape vs. Almabayev,"Mar 1, 2025",2025-03-01,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cejudo vs. Song,"Feb 22, 2025",2025-02-22,Climate Pledge Arena,"Seattle, Washington , U.S.","18,287",18287,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cannonier vs. Rodrigues,"Feb 15, 2025",2025-02-15,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 312: du Plessis vs. Strickland 2,"Feb 8, 2025",2025-02-08,Qudos Bank Arena,"Sydney , Australia","18,537",18537,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Adesanya vs. Imavov,"Feb 1, 2025",2025-02-01,anb Arena,"Riyadh , Saudi Arabia",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 311: Makhachev vs. Moicano,"Jan 18, 2025",2025-01-18,Intuit Dome,"Inglewood, California , U.S.","18,370",18370,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Dern vs. Ribas 2,"Jan 11, 2025",2025-01-11,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Covington vs. Buckley,"Dec 14, 2024",2024-12-14,Amalie Arena,"Tampa, Florida , U.S.","18,625",18625,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 310: Pantoja vs. Asakura,"Dec 7, 2024",2024-12-07,T-Mobile Arena,"Las Vegas, Nevada , U.S.","18,648",18648,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Yan vs. Figueiredo,"Nov 23, 2024",2024-11-23,Galaxy Arena,"Macau SAR , China","12,615",12615,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 309: Jones vs. Miocic,"Nov 16, 2024",2024-11-16,Madison Square Garden,"New York City, New York , U.S.","20,200",20200,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Magny vs. Prates,"Nov 9, 2024",2024-11-09,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moreno vs. Albazi,"Nov 2, 2024",2024-11-02,Rogers Place,"Edmonton, Alberta , Canada","16,439",16439,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 308: Topuria vs. Holloway,"Oct 26, 2024",2024-10-26,Etihad Arena,"Abu Dhabi , United Arab Emirates",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hernandez vs. Pereira,"Oct 19, 2024",2024-10-19,UFC Apex,"Las Vegas, Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 307: Pereira vs. Rountree Jr.,"Oct 5, 2024",2024-10-05,Delta Center,"Salt Lake City, Utah , U.S.","17,487",17487,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moicano vs. Saint Denis,"Sep 28, 2024",2024-09-28,Accor Arena,"Paris , France","15,449",15449,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 306: O'Malley vs. Dvalishvili,"Sep 14, 2024",2024-09-14,Sphere,"Las Vegas, Nevada , U.S.","16,024",16024,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Burns vs. Brady,"Sep 7, 2024",2024-09-07,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 305: du Plessis vs. Adesanya,"Aug 18, 2024",2024-08-18,RAC Arena,"Perth , Australia","14,152",14152,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Tybura vs. Spivac 2,"Aug 10, 2024",2024-08-10,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Sandhagen vs. Nurmagomedov,"Aug 3, 2024",2024-08-03,Etihad Arena,"Abu Dhabi , United Arab Emirates",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 304: Edwards vs. Muhammad 2,"Jul 27, 2024",2024-07-27,Co-op Live,"Manchester , England","17,907",17907,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Lemos vs. Jandiroba,"Jul 20, 2024",2024-07-20,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Namajunas vs. Cortez,"Jul 13, 2024",2024-07-13,Ball Arena,"Denver, Colorado , U.S.","16,884",16884,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 303: Pereira vs. Procházka 2,"Jun 29, 2024",2024-06-29,T-Mobile Arena,"Las Vegas, Nevada , U.S.","18,881",18881,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Whittaker vs. Aliskerov,"Jun 22, 2024",2024-06-22,Kingdom Arena,"Riyadh , Saudi Arabia",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Perez vs. Taira,"Jun 15, 2024",2024-06-15,UFC Apex,"Las Vegas, Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Cannonier vs. Imavov,"Jun 8, 2024",2024-06-08,KFC Yum! Center,"Louisville, Kentucky , U.S.","19,578",19578,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 302: Makhachev vs. Poirier,"Jun 1, 2024",2024-06-01,Prudential Center,"Newark, New Jersey , U.S.","17,834",17834,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Barboza vs. Murphy,"May 18, 2024",2024-05-18,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Lewis vs. Nascimento,"May 11, 2024",2024-05-11,Enterprise Center,"St. Louis , Missouri , U.S.","15,960",15960,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 301: Pantoja vs. Erceg,"May 4, 2024",2024-05-04,Farmasi Arena,"Rio de Janeiro , Brazil","14,514",14514,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Nicolau vs. Perez,"Apr 27, 2024",2024-04-27,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 300: Pereira vs. Hill,"Apr 13, 2024",2024-04-13,T-Mobile Arena,"20,067",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Allen vs. Curtis 2,"Apr 6, 2024",2024-04-06,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Blanchfield vs. Fiorot,"Mar 30, 2024",2024-03-30,Boardwalk Hall,"Atlantic City, New Jersey , U.S.","12,198",12198,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Ribas vs. Namajunas,"Mar 23, 2024",2024-03-23,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 299: O'Malley vs. Vera 2,"Mar 9, 2024",2024-03-09,Kaseya Center,"Miami, Florida , U.S.","19,165",19165,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rozenstruik vs. Gaziev,"Mar 2, 2024",2024-03-02,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moreno vs. Royval 2,"Feb 24, 2024",2024-02-24,Arena CDMX,"Mexico City , Mexico","21,546",21546,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 298: Volkanovski vs. Topuria,"Feb 17, 2024",2024-02-17,Honda Center,"Anaheim, California , U.S.","18,186",18186,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hermansson vs. Pyfer,"Feb 10, 2024",2024-02-10,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 297: Strickland vs. du Plessis,"Jan 20, 2024",2024-01-20,Scotiabank Arena,"Toronto, Ontario , Canada","18,559",18559,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Ankalaev vs. Walker 2,"Jan 13, 2024",2024-01-13,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 296: Edwards vs. Covington,"Dec 16, 2023",2023-12-16,T-Mobile Arena,"19,039",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Song vs. Gutiérrez,"Dec 9, 2023",2023-12-09,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Dariush vs. Tsarukyan,"Dec 2, 2023",2023-12-02,Moody Center,"Austin, Texas , U.S.","14,485",14485,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Allen vs. Craig,"Nov 18, 2023",2023-11-18,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 295: Procházka vs. Pereira,"Nov 11, 2023",2023-11-11,Madison Square Garden,"New York City, New York , U.S.","19,039",19039,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Almeida vs. Lewis,"Nov 4, 2023",2023-11-04,Ginásio do Ibirapuera,"São Paulo , Brazil","10,792",10792,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 294: Makhachev vs. Volkanovski 2,"Oct 21, 2023",2023-10-21,Etihad Arena,"Abu Dhabi , United Arab Emirates",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Yusuff vs. Barboza,"Oct 14, 2023",2023-10-14,UFC Apex,"Las Vegas, Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Grasso vs. Shevchenko 2,"Sep 16, 2023",2023-09-16,T-Mobile Arena,"18,766",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 293: Adesanya vs. Strickland,"Sep 10, 2023",2023-09-10,Qudos Bank Arena,"Sydney , Australia","18,168",18168,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gane vs. Spivac,"Sep 2, 2023",2023-09-02,Accor Arena,"Paris , France","15,610",15610,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Holloway vs. The Korean Zombie,"Aug 26, 2023",2023-08-26,Singapore Indoor Stadium,"Kallang , Singapore","10,263",10263,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 292: Sterling vs. O'Malley,"Aug 19, 2023",2023-08-19,TD Garden,"Boston , Massachusetts , U.S.","18,293",18293,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Luque vs. dos Anjos,"Aug 12, 2023",2023-08-12,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Sandhagen vs. Font,"Aug 5, 2023",2023-08-05,Bridgestone Arena,"Nashville, Tennessee , U.S.","17,792",17792,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 291: Poirier vs. Gaethje 2,"Jul 29, 2023",2023-07-29,Delta Center,"Salt Lake City, Utah , U.S.","18,467",18467,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Aspinall vs. Tybura,"Jul 22, 2023",2023-07-22,The O2 Arena,"London , England","15,078",15078,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Holm vs. Bueno Silva,"Jul 15, 2023",2023-07-15,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 290: Volkanovski vs. Rodríguez,"Jul 8, 2023",2023-07-08,T-Mobile Arena,"19,204",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Strickland vs. Magomedov,"Jul 1, 2023",2023-07-01,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Emmett vs. Topuria,"Jun 24, 2023",2023-06-24,VyStar Veterans Memorial Arena,"Jacksonville, Florida , U.S.","14,101",14101,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Vettori vs. Cannonier,"Jun 17, 2023",2023-06-17,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 289: Nunes vs. Aldana,"Jun 10, 2023",2023-06-10,Rogers Arena,"Vancouver , British Columbia , Canada","17,628",17628,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Kara-France vs. Albazi,"Jun 3, 2023",2023-06-03,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Rozenstruik vs. Almeida,"May 13, 2023",2023-05-13,Spectrum Center,"Charlotte, North Carolina , U.S.","18,712",18712,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 288: Sterling vs. Cejudo,"May 6, 2023",2023-05-06,Prudential Center,"Newark, New Jersey , U.S.","17,559",17559,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Song vs. Simón,"Apr 29, 2023",2023-04-29,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Holloway vs. Allen,"Apr 15, 2023",2023-04-15,T-Mobile Center,"Kansas City, Missouri , U.S.","16,234",16234,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 287: Pereira vs. Adesanya 2,"Apr 8, 2023",2023-04-08,Kaseya Center,"Miami, Florida , U.S.","19,032",19032,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Vera vs. Sandhagen,"Mar 25, 2023",2023-03-25,Frost Bank Center,"San Antonio , Texas , U.S.","16,076",16076,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 286: Edwards vs. Usman 3,"Mar 18, 2023",2023-03-18,The O2 Arena,"London , England","17,588",17588,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Yan vs. Dvalishvili,"Mar 11, 2023",2023-03-11,The Theater at Virgin Hotels,"Las Vegas, Nevada , U.S.","2,361",2361,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 285: Jones vs. Gane,"Mar 4, 2023",2023-03-04,T-Mobile Arena,"19,471",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Muniz vs. Allen,"Feb 25, 2023",2023-02-25,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 284: Makhachev vs. Volkanovski,"Feb 12, 2023",2023-02-12,RAC Arena,"Perth , Australia","14,124",14124,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lewis vs. Spivac,"Feb 4, 2023",2023-02-04,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 283: Teixeira vs. Hill,"Jan 21, 2023",2023-01-21,Jeunesse Arena,"Rio de Janeiro , Brazil","13,604",13604,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Strickland vs. Imavov,"Jan 14, 2023",2023-01-14,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 282: Błachowicz vs. Ankalaev,"Dec 10, 2022",2022-12-10,T-Mobile Arena,"18,455",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Thompson vs. Holland,"Dec 3, 2022",2022-12-03,Kia Center,"Orlando, Florida , U.S.","17,065",17065,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Nzechukwu vs. Cuțelaba,"Nov 19, 2022",2022-11-19,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 281: Adesanya vs. Pereira,"Nov 12, 2022",2022-11-12,Madison Square Garden,"New York City, New York , U.S.","20,845",20845,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rodriguez vs. Lemos,"Nov 5, 2022",2022-11-05,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 280: Oliveira vs. Makhachev,"Oct 22, 2022",2022-10-22,Etihad Arena,"Abu Dhabi , United Arab Emirates","13,400",13400,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Grasso vs. Araújo,"Oct 15, 2022",2022-10-15,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 279: Diaz vs. Ferguson,"Sep 10, 2022",2022-09-10,T-Mobile Arena,"19,125",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gane vs. Tuivasa,"Sep 3, 2022",2022-09-03,Accor Arena,"Paris , France","15,405",15405,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 278: Usman vs. Edwards 2,"Aug 20, 2022",2022-08-20,Vivint Arena,"Salt Lake City, Utah , U.S.","18,321",18321,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Vera vs. Cruz,"Aug 13, 2022",2022-08-13,Pechanga Arena,"San Diego, California , U.S.","12,804",12804,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Santos vs. Hill,"Aug 6, 2022",2022-08-06,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 277: Peña vs. Nunes 2,"Jul 30, 2022",2022-07-30,American Airlines Center,"Dallas , Texas, U.S.","19,442",19442,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Blaydes vs. Aspinall,"Jul 23, 2022",2022-07-23,The O2 Arena,"London , England","17,813",17813,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ABC: Ortega vs. Rodríguez,"Jul 16, 2022",2022-07-16,UBS Arena,"Elmont, New York , U.S.","16,979",16979,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: dos Anjos vs. Fiziev,"Jul 9, 2022",2022-07-09,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 276: Adesanya vs. Cannonier,"Jul 2, 2022",2022-07-02,T-Mobile Arena,"19,649",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Tsarukyan vs. Gamrot,"Jun 25, 2022",2022-06-25,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Kattar vs. Emmett,"Jun 18, 2022",2022-06-18,Moody Center,"Austin, Texas , U.S.","13,689",13689,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 275: Teixeira vs. Procházka,"Jun 12, 2022",2022-06-12,Singapore Indoor Stadium,"Kallang , Singapore","10,787",10787,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Volkov vs. Rozenstruik,"Jun 4, 2022",2022-06-04,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 274: Oliveira vs. Gaethje,"May 7, 2022",2022-05-07,Footprint Center,"Phoenix, Arizona , U.S.","17,232",17232,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Font vs. Vera,"Apr 30, 2022",2022-04-30,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 273: Volkanovski vs. The Korean Zombie,"Apr 9, 2022",2022-04-09,VyStar Veterans Memorial Arena,"Jacksonville, Florida , U.S.","14,605",14605,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Blaydes vs. Daukaus,"Mar 26, 2022",2022-03-26,Nationwide Arena,"Columbus, Ohio , U.S.","18,630",18630,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Volkov vs. Aspinall,"Mar 19, 2022",2022-03-19,The O2 Arena,"London , England","17,081",17081,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Santos vs. Ankalaev,"Mar 12, 2022",2022-03-12,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 272: Covington vs. Masvidal,"Mar 5, 2022",2022-03-05,T-Mobile Arena,"19,425",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Makhachev vs. Green,"Feb 26, 2022",2022-02-26,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 271: Adesanya vs. Whittaker 2,"Feb 12, 2022",2022-02-12,Toyota Center,"Houston, Texas , U.S.","17,872",17872,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hermansson vs. Strickland,"Feb 5, 2022",2022-02-05,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 270: Ngannou vs. Gane,"Jan 22, 2022",2022-01-22,Honda Center,"Anaheim, California , U.S.","17,387",17387,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Kattar vs. Chikadze,"Jan 15, 2022",2022-01-15,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 269: Oliveira vs. Poirier,"Dec 11, 2021",2021-12-11,T-Mobile Arena,"18,471",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Font vs. Aldo,"Dec 4, 2021",2021-12-04,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 268: Usman vs. Covington 2,"Nov 6, 2021",2021-11-06,Madison Square Garden,"New York City, New York , U.S.","20,715",20715,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 267: Błachowicz vs. Teixeira,"Oct 30, 2021",2021-10-30,Etihad Arena,"Abu Dhabi , United Arab Emirates","10,171",10171,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Costa vs. Vettori,"Oct 23, 2021",2021-10-23,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 266: Volkanovski vs. Ortega,"Sep 25, 2021",2021-09-25,T-Mobile Arena,"19,029",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Smith vs. Spann,"Sep 18, 2021",2021-09-18,UFC Apex,— N/a,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 265: Lewis vs. Gane,"Aug 7, 2021",2021-08-07,Toyota Center,"Houston, Texas , U.S.","16,604",16604,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Hall vs. Strickland,"Jul 31, 2021",2021-07-31,UFC Apex,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 264: Poirier vs. McGregor 3,"Jul 10, 2021",2021-07-10,T-Mobile Arena,"20,062",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gane vs. Volkov,"Jun 26, 2021",2021-06-26,UFC Apex,0,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 263: Adesanya vs. Vettori 2,"Jun 12, 2021",2021-06-12,Gila River Arena,"Glendale, Arizona , U.S.","17,208",17208,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rozenstruik vs. Sakai,"Jun 5, 2021",2021-06-05,UFC Apex,"Las Vegas, Nevada , U.S.",0,0,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 262: Oliveira vs. Chandler,"May 15, 2021",2021-05-15,Toyota Center,"Houston, Texas , U.S.","16,005",16005,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Rodriguez vs. Waterson,"May 8, 2021",2021-05-08,UFC Apex,"Las Vegas, Nevada , U.S.",0,0,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 261: Usman vs. Masvidal 2,"Apr 24, 2021",2021-04-24,VyStar Veterans Memorial Arena,"Jacksonville, Florida , U.S.","15,269",15269,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Whittaker vs. Gastelum,"Apr 17, 2021",2021-04-17,UFC Apex,"Las Vegas, Nevada , U.S.",0,0,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 257: Poirier vs. McGregor 2,"Jan 24, 2021",2021-01-24,Etihad Arena,"Abu Dhabi , United Arab Emirates","2,600",2600,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Thompson vs. Neal,"Dec 19, 2020",2020-12-19,UFC Apex,"Las Vegas, Nevada , U.S.",0,0,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 254: Khabib vs. Gaethje,"Oct 24, 2020",2020-10-24,du Forum,"Abu Dhabi , United Arab Emirates",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Covington vs. Woodley,"Sep 19, 2020",2020-09-19,UFC Apex,"Las Vegas, Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Whittaker vs. Till,"Jul 26, 2020",2020-07-26,du Forum,"Abu Dhabi , United Arab Emirates",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Poirier vs. Hooker,"Jun 27, 2020",2020-06-27,UFC Apex,"Las Vegas, Nevada , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Overeem vs. Harris,"May 16, 2020",2020-05-16,VyStar Veterans Memorial Arena,"Jacksonville, Florida , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hermansson vs. Weidman,"May 2, 2020",2020-05-02,Chesapeake Energy Arena,"Oklahoma City, Oklahoma , U.S.",Canceled,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Overeem vs. Harris,"Apr 11, 2020",2020-04-11,Moda Center,"Portland, Oregon , U.S.",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lee vs. Oliveira,"Mar 14, 2020",2020-03-14,Ginásio Nilson Nelson,"Brasília , Brazil",0,0,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 248: Adesanya vs. Romero,"Mar 7, 2020",2020-03-07,T-Mobile Arena,"Las Vegas, Nevada , U.S.","15,077",15077,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Benavidez vs. Figueiredo,"Feb 29, 2020",2020-02-29,Chartway Arena,"Norfolk, Virginia , U.S.","7,098",7098,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Felder vs. Hooker,"Feb 23, 2020",2020-02-23,Spark Arena,"Auckland , New Zealand","10,025",10025,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Anderson vs. Błachowicz 2,"Feb 15, 2020",2020-02-15,Santa Ana Star Center,"Rio Rancho, New Mexico , U.S.","6,449",6449,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 247: Jones vs. Reyes,"Feb 8, 2020",2020-02-08,Toyota Center,"Houston, Texas , U.S.","17,401",17401,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Blaydes vs. dos Santos,"Jan 25, 2020",2020-01-25,PNC Arena,"Raleigh, North Carolina , U.S.","14,533",14533,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 246: McGregor vs. Cowboy,"Jan 18, 2020",2020-01-18,T-Mobile Arena,"Las Vegas, Nevada , U.S.","19,040",19040,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Edgar vs. The Korean Zombie,"Dec 21, 2019",2019-12-21,Sajik Arena,"Busan , South Korea","10,651",10651,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 245: Usman vs. Covington,"Dec 14, 2019",2019-12-14,T-Mobile Arena,"Las Vegas, Nevada , U.S.","16,811",16811,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Overeem vs. Rozenstruik,"Dec 7, 2019",2019-12-07,Capital One Arena,"Washington, D.C. , U.S.","10,816",10816,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Błachowicz vs. Jacaré,"Nov 16, 2019",2019-11-16,Ginásio do Ibirapuera,"São Paulo , Brazil","10,344",10344,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Magomedsharipov vs. Kattar,"Nov 9, 2019",2019-11-09,CSKA Arena,"Moscow , Russia","11,305",11305,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 244: Masvidal vs. Diaz,"Nov 2, 2019",2019-11-02,Madison Square Garden,"New York City, New York , U.S.","20,143",20143,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Maia vs. Askren,"Oct 26, 2019",2019-10-26,Singapore Indoor Stadium,"Kallang , Singapore","7,155",7155,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Reyes vs. Weidman,"Oct 18, 2019",2019-10-18,TD Garden,"Boston, Massachusetts , U.S.","12,066",12066,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Joanna vs. Waterson,"Oct 12, 2019",2019-10-12,Amalie Arena,"Tampa, Florida , U.S.","10,597",10597,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 243: Whittaker vs. Adesanya,"Oct 5, 2019",2019-10-05,Marvel Stadium,"Melbourne , Australia","57,127",57127,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hermansson vs. Cannonier,"Sep 28, 2019",2019-09-28,Royal Arena,"Copenhagen , Denmark","12,767",12767,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rodríguez vs. Stephens,"Sep 21, 2019",2019-09-21,Arena Ciudad de México,"Mexico City , Mexico","10,112",10112,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Gaethje,"Sep 14, 2019",2019-09-14,Rogers Arena,"Vancouver, British Columbia , Canada","15,114",15114,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 242: Khabib vs. Poirier,"Sep 7, 2019",2019-09-07,"The Arena,","Abu Dhabi , United Arab Emirates",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Andrade vs. Zhang,"Aug 31, 2019",2019-08-31,Shenzhen Universiade Sports Centre,"Shenzhen , China","10,302",10302,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 241: Cormier vs. Miocic 2,"Aug 17, 2019",2019-08-17,Honda Center,"Anaheim, California , U.S.","17,304",17304,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shevchenko vs. Carmouche 2,"Aug 10, 2019",2019-08-10,Antel Arena,"Montevideo , Uruguay","9,225",9225,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Covington vs. Lawler,"Aug 3, 2019",2019-08-03,Prudential Center,"Newark, New Jersey , U.S.","10,427",10427,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 240: Holloway vs. Edgar,"Jul 27, 2019",2019-07-27,Rogers Place,"Edmonton , Alberta , Canada","12,144",12144,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: dos Anjos vs. Edwards,"Jul 20, 2019",2019-07-20,AT&T Center,"San Antonio, Texas , U.S.","9,255",9255,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: de Randamie vs. Ladd,"Jul 13, 2019",2019-07-13,Golden 1 Center,"Sacramento, California , U.S.","10,306",10306,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 239: Jones vs. Santos,"Jul 6, 2019",2019-07-06,T-Mobile Arena,"Las Vegas, Nevada , U.S.","18,358",18358,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Ngannou vs. dos Santos,"Jun 29, 2019",2019-06-29,Target Center,"Minneapolis, Minnesota , U.S.","10,123",10123,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Moicano vs. The Korean Zombie,"Jun 22, 2019",2019-06-22,Bon Secours Wellness Arena,"Greenville, South Carolina , U.S.","7,682",7682,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 238: Cejudo vs. Moraes,"Jun 8, 2019",2019-06-08,United Center,"Chicago, Illinois , U.S.","16,083",16083,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gustafsson vs. Smith,"Jun 1, 2019",2019-06-01,Avicii Arena,"Stockholm , Sweden","14,319",14319,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: dos Anjos vs. Lee,"May 18, 2019",2019-05-18,Blue Cross Arena,"Rochester, New York , U.S.","8,132",8132,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 237: Namajunas vs. Andrade,"May 11, 2019",2019-05-11,Jeunesse Arena,"Rio de Janeiro , Brazil","15,193",15193,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Iaquinta vs. Cowboy,"May 4, 2019",2019-05-04,Canadian Tire Centre,"Ottawa, Ontario , Canada","10,960",10960,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Jacaré vs. Hermansson,"Apr 27, 2019",2019-04-27,Amerat Bank Arena,"Sunrise, Florida , U.S.","12,754",12754,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Overeem vs. Oleinik,"Apr 20, 2019",2019-04-20,Yubileyny Sports Palace,"Saint Petersburg , Russia","7,236",7236,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 236: Holloway vs. Poirier 2,"Apr 13, 2019",2019-04-13,State Farm Arena,"Atlanta, Georgia , U.S.","14,297",14297,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Barboza vs. Gaethje,"Mar 30, 2019",2019-03-30,Wells Fargo Center,"Philadelphia, Pennsylvania , U.S.","11,123",11123,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Thompson vs. Pettis,"Mar 23, 2019",2019-03-23,Bridgestone Arena,"Nashville, Tennessee , U.S.","10,863",10863,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Till vs. Masvidal,"Mar 16, 2019",2019-03-16,The O2 Arena,"London , England","16,602",16602,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lewis vs. dos Santos,"Mar 9, 2019",2019-03-09,Intrust Bank Arena,"Wichita, Kansas , U.S.","7,265",7265,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 235: Jones vs. Smith,"Mar 2, 2019",2019-03-02,T-Mobile Arena,"Las Vegas, Nevada , U.S.","14,790",14790,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Błachowicz vs. Santos,"Feb 23, 2019",2019-02-23,O2 Arena,"Prague , Czech Republic","16,583",16583,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on ESPN: Ngannou vs. Velasquez,"Feb 17, 2019",2019-02-17,Talking Stick Resort Arena,"Phoenix, Arizona , U.S.","14,269",14269,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 234: Adesanya vs. Silva,"Feb 10, 2019",2019-02-10,Rod Laver Arena,"Melbourne , Australia","15,238",15238,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Assunção vs. Moraes 2,"Feb 2, 2019",2019-02-02,Centro de Formação Olímpica do Nordeste,"Fortaleza , Brazil","10,040",10040,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 233: Cejudo vs. Dillashaw,"Jan 26, 2019",2019-01-26,Honda Center,"Anaheim, California , U.S.",Canceled,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cejudo vs. Dillashaw,"Jan 19, 2019",2019-01-19,Barclays Center,"New York City, New York , U.S.","12,152",12152,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 232: Jones vs. Gustafsson 2,"Dec 29, 2018",2018-12-29,The Forum,"Inglewood, California , U.S.","15,862",15862,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Lee vs. Iaquinta 2,"Dec 15, 2018",2018-12-15,Fiserv Forum,"Milwaukee , Wisconsin , U.S.","9,010",9010,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 231: Holloway vs. Ortega,"Dec 8, 2018",2018-12-08,Scotiabank Arena,"Toronto, Ontario , Canada","19,039",19039,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: dos Santos vs. Tuivasa,"Dec 2, 2018",2018-12-02,Adelaide Entertainment Centre,"Adelaide , Australia","8,652",8652,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Heavy Hitters Finale,"Nov 30, 2018",2018-11-30,Pearl Theatre,"Las Vegas, Nevada , U.S.","2,020",2020,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Blaydes vs. Ngannou 2,"Nov 24, 2018",2018-11-24,Cadillac Arena,"Beijing , China","10,302",10302,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Magny vs. Ponzinibbio,"Nov 17, 2018",2018-11-17,Estadio Mary Terán de Weiss,"Buenos Aires , Argentina","10,245",10245,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: The Korean Zombie vs. Rodríguez,"Nov 10, 2018",2018-11-10,Pepsi Center,"Denver, Colorado , U.S.","11,426",11426,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 230: Cormier vs. Lewis,"Nov 3, 2018",2018-11-03,Madison Square Garden,"New York City, New York , U.S.","17,011",17011,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Volkan vs. Smith,"Oct 27, 2018",2018-10-27,Avenir Centre,"Moncton, New Brunswick , Canada","6,282",6282,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 229: Khabib vs. McGregor,"Oct 6, 2018",2018-10-06,T-Mobile Arena,"Las Vegas, Nevada , U.S.","20,034",20034,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Santos vs. Anders,"Sep 22, 2018",2018-09-22,Ginásio do Ibirapuera,"São Paulo , Brazil","9,485",9485,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hunt vs. Oleinik,"Sep 15, 2018",2018-09-15,Olimpiyskiy Stadium,"Moscow , Russia","22,603",22603,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 228: Woodley vs. Till,"Sep 8, 2018",2018-09-08,American Airlines Center,"Dallas , Texas , U.S.","14,073",14073,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gaethje vs. Vick,"Aug 25, 2018",2018-08-25,Pinnacle Bank Arena,"Lincoln, Nebraska , U.S.","6,409",6409,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 227: Dillashaw vs. Garbrandt 2,"Aug 4, 2018",2018-08-04,Staples Center,"Los Angeles , California , U.S.","17,794",17794,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Alvarez vs. Poirier 2,"Jul 28, 2018",2018-07-28,Scotiabank Saddledome,"Calgary , Alberta , Canada","10,603",10603,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shogun vs. Smith,"Jul 22, 2018",2018-07-22,Barclaycard Arena,"Hamburg , Germany","7,798",7798,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: dos Santos vs. Ivanov,"Jul 14, 2018",2018-07-14,CenturyLink Arena,"Boise, Idaho , U.S.","5,648",5648,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 226: Miocic vs. Cormier,"Jul 7, 2018",2018-07-07,T-Mobile Arena,"Las Vegas, Nevada , U.S.","17,464",17464,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Undefeated Finale,"Jul 6, 2018",2018-07-06,Palms Casino Resort,"2,123",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Edwards,"Jun 23, 2018",2018-06-23,Singapore Indoor Stadium,"Kallang , Singapore","6,419",6419,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 225: Whittaker vs. Romero 2,"Jun 9, 2018",2018-06-09,United Center,"Chicago, Illinois , U.S.","18,117",18117,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rivera vs. Moraes,"Jun 1, 2018",2018-06-01,Adirondack Bank Center,"Utica, New York , U.S.","5,063",5063,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Thompson vs. Till,"May 27, 2018",2018-05-27,Echo Arena,"Liverpool , England","8,520",8520,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Maia vs. Usman,"May 19, 2018",2018-05-19,Movistar Arena,"Santiago , Chile","11,082",11082,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 224: Nunes vs. Pennington,"May 12, 2018",2018-05-12,Jeunesse Arena,"Rio de Janeiro , Brazil","10,696",10696,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Barboza vs. Lee,"Apr 21, 2018",2018-04-21,Boardwalk Hall,"Atlantic City, New Jersey , U.S.","9,541",9541,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Poirier vs. Gaethje,"Apr 14, 2018",2018-04-14,Gila River Arena,"Glendale, Arizona , U.S.","11,382",11382,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 223: Khabib vs. Iaquinta,"Apr 7, 2018",2018-04-07,Barclays Center,"New York City, New York , U.S.","17,026",17026,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Werdum vs. Volkov,"Mar 17, 2018",2018-03-17,The O2 Arena,"London , England","16,274",16274,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 222: Cyborg vs. Kunitskaya,"Mar 3, 2018",2018-03-03,T-Mobile Arena,"Las Vegas, Nevada , U.S.","12,041",12041,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Emmett vs. Stephens,"Feb 24, 2018",2018-02-24,Amway Center,"Orlando, Florida , U.S.","10,124",10124,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Medeiros,"Feb 18, 2018",2018-02-18,Frank Erwin Center,"Austin, Texas , U.S.","10,502",10502,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 221: Romero vs. Rockhold,"Feb 11, 2018",2018-02-11,Perth Arena,"Perth , Australia","12,437",12437,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Machida vs. Anders,"Feb 3, 2018",2018-02-03,Arena Guilherme Paraense,"Belém , Brazil","10,144",10144,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Jacaré vs. Brunson 2,"Jan 27, 2018",2018-01-27,Spectrum Center,"Charlotte, North Carolina , U.S.","10,249",10249,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 220: Miocic vs. Ngannou,"Jan 20, 2018",2018-01-20,TD Garden,"Boston, Massachusetts , U.S.","16,015",16015,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Stephens vs. Choi,"Jan 14, 2018",2018-01-14,Scottrade Center,"St. Louis , Missouri , U.S.","10,052",10052,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 219: Cyborg vs. Holm,"Dec 30, 2017",2017-12-30,T-Mobile Arena,"Las Vegas, Nevada , U.S.","13,561",13561,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Lawler vs. dos Anjos,"Dec 16, 2017",2017-12-16,Canada Life Centre,"Winnipeg , Manitoba , Canada","8,862",8862,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Swanson vs. Ortega,"Dec 9, 2017",2017-12-09,Save Mart Center,"Fresno, California , U.S.","7,605",7605,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 218: Holloway vs. Aldo 2,"Dec 2, 2017",2017-12-02,Little Caesars Arena,"Detroit, Michigan , U.S.","17,587",17587,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: A New World Champion Finale,"Dec 1, 2017",2017-12-01,Park Theater,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bisping vs. Gastelum,"Nov 25, 2017",2017-11-25,Mercedes-Benz Arena,"Shanghai , China","15,128",15128,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Werdum vs. Tybura,"Nov 19, 2017",2017-11-19,Qudos Bank Arena,"Sydney , Australia","10,021",10021,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Poirier vs. Pettis,"Nov 11, 2017",2017-11-11,Ted Constant Convocation Center,"Norfolk, Virginia , U.S.","8,442",8442,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 217: Bisping vs. St-Pierre,"Nov 4, 2017",2017-11-04,Madison Square Garden,"New York City, New York , U.S.","18,201",18201,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Brunson vs. Machida,"Oct 28, 2017",2017-10-28,Ginásio do Ibirapuera,"São Paulo , Brazil","10,265",10265,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Till,"Oct 21, 2017",2017-10-21,Ergo Arena,"Gdańsk , Poland","11,138",11138,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 216: Ferguson vs. Lee,"Oct 7, 2017",2017-10-07,T-Mobile Arena,"Las Vegas, Nevada , U.S.","10,638",10638,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Saint Preux vs. Okami,"Sep 23, 2017",2017-09-23,Saitama Super Arena,"Saitama , Japan","8,571",8571,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rockhold vs. Branch,"Sep 16, 2017",2017-09-16,PPG Paints Arena,"Pittsburgh, Pennsylvania , U.S.","7,005",7005,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 215: Nunes vs. Shevchenko 2,"Sep 9, 2017",2017-09-09,Rogers Place,"Edmonton , Alberta , Canada","16,232",16232,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Volkov vs. Struve,"Sep 2, 2017",2017-09-02,Rotterdam Ahoy,"Rotterdam , Netherlands","10,224",10224,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Pettis vs. Moreno,"Aug 5, 2017",2017-08-05,Arena Ciudad de México,"Mexico City , Mexico","10,172",10172,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 214: Cormier vs. Jones 2,"Jul 29, 2017",2017-07-29,Honda Center,"Anaheim, California , U.S.","16,610",16610,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Weidman vs. Gastelum,"Jul 22, 2017",2017-07-22,Nassau Veterans Memorial Coliseum,"Uniondale, New York , U.S.","11,198",11198,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Nelson vs. Ponzinibbio,"Jul 16, 2017",2017-07-16,The SSE Hydro,"Glasgow , Scotland","10,589",10589,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 213: Romero vs. Whittaker,"Jul 8, 2017",2017-07-08,T-Mobile Arena,"Las Vegas, Nevada , U.S.","12,834",12834,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Chiesa vs. Lee,"Jun 25, 2017",2017-06-25,Chesapeake Energy Arena,"Oklahoma City, Oklahoma , U.S.","7,605",7605,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Holm vs. Correia,"Jun 17, 2017",2017-06-17,Singapore Indoor Stadium,"Kallang , Singapore","8,414",8414,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lewis vs. Hunt,"Jun 11, 2017",2017-06-11,Spark Arena,"Auckland , New Zealand","8,649",8649,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 212: Aldo vs. Holloway,"Jun 3, 2017",2017-06-03,Jeunesse Arena,"Rio de Janeiro , Brazil","15,412",15412,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gustafsson vs. Teixeira,"May 28, 2017",2017-05-28,Ericsson Globe,"Stockholm , Sweden","12,668",12668,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 211: Miocic vs. dos Santos 2,"May 13, 2017",2017-05-13,American Airlines Center,"Dallas , Texas, U.S.","17,834",17834,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Swanson vs. Lobov,"Apr 22, 2017",2017-04-22,Bridgestone Arena,"Nashville, Tennessee , U.S.","10,144",10144,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Johnson vs. Reis,"Apr 15, 2017",2017-04-15,Sprint Center,"Kansas City, Missouri , U.S.","12,171",12171,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 210: Cormier vs. Johnson 2,"Apr 8, 2017",2017-04-08,KeyBank Center,"Buffalo, New York , U.S.","17,110",17110,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Manuwa vs. Anderson,"Mar 18, 2017",2017-03-18,The O2 Arena,"London , England","15,761",15761,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Belfort vs. Gastelum,"Mar 11, 2017",2017-03-11,Centro de Formação Olímpica do Nordeste,"Fortaleza , Brazil","14,069",14069,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 209: Woodley vs. Thompson 2,"Mar 4, 2017",2017-03-04,T-Mobile Arena,"Las Vegas, Nevada , U.S.","13,150",13150,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lewis vs. Browne,"Feb 19, 2017",2017-02-19,Scotiabank Centre,"Halifax, Nova Scotia , Canada","8,123",8123,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 208: Holm vs. de Randamie,"Feb 11, 2017",2017-02-11,Barclays Center,"New York City, New York , U.S.","15,628",15628,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bermudez vs. The Korean Zombie,"Feb 4, 2017",2017-02-04,Toyota Center,"Houston, Texas , U.S.","8,119",8119,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Shevchenko vs. Peña,"Jan 28, 2017",2017-01-28,Pepsi Center,"Denver, Colorado , U.S.","13,233",13233,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rodríguez vs. Penn,"Jan 15, 2017",2017-01-15,Talking Stick Resort Arena,"Phoenix, Arizona , U.S.","11,589",11589,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 207: Nunes vs. Rousey,"Dec 30, 2016",2016-12-30,T-Mobile Arena,"Las Vegas, Nevada , U.S.","18,533",18533,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: VanZant vs. Waterson,"Dec 17, 2016",2016-12-17,Golden 1 Center,"Sacramento, California , U.S.","13,136",13136,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 206: Holloway vs. Pettis,"Dec 10, 2016",2016-12-10,Scotiabank Arena,"Toronto , Ontario , Canada","18,057",18057,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lewis vs. Abdurakhimov,"Dec 9, 2016",2016-12-09,Times Union Center,"Albany, New York , U.S.","6,216",6216,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Tournament of Champions Finale,"Dec 3, 2016",2016-12-03,Palms Casino Resort,"Las Vegas, Nevada , U.S.","2,044",2044,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Whittaker vs. Brunson,"Nov 27, 2016",2016-11-27,Rod Laver Arena,"Melbourne , Australia","13,721",13721,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bader vs. Nogueira 2,"Nov 19, 2016",2016-11-19,Ginásio do Ibirapuera,"São Paulo , Brazil","9,028",9028,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Mousasi vs. Hall 2,"Nov 19, 2016",2016-11-19,The SSE Arena,"Belfast , Northern Ireland","7,222",7222,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 205: Alvarez vs. McGregor,"Nov 12, 2016",2016-11-12,Madison Square Garden,"New York City, New York , U.S.","20,427",20427,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter Latin America 3 Finale: dos Anjos vs. Ferguson,"Nov 5, 2016",2016-11-05,Arena Ciudad de México,"Mexico City , Mexico","11,460",11460,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lamas vs. Penn,"Oct 15, 2016",2016-10-15,Mall of Asia Arena,"Pasay , Philippines",Canceled,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 204: Bisping vs. Henderson 2,"Oct 8, 2016",2016-10-08,AO Arena,"Manchester , England","16,000",16000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lineker vs. Dodson,"Oct 1, 2016",2016-10-01,Moda Center,"Portland, Oregon , U.S.","6,240",6240,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cyborg vs. Länsberg,"Sep 24, 2016",2016-09-24,Ginásio Nilson Nelson,"Brasília , Brazil","8,410",8410,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Poirier vs. Johnson,"Sep 17, 2016",2016-09-17,State Farm Arena,"Hidalgo, Texas , U.S.","5,624",5624,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 203: Miocic vs. Overeem,"Sep 10, 2016",2016-09-10,Quicken Loans Arena,"Cleveland, Ohio , U.S.","18,875",18875,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Arlovski vs. Barnett,"Sep 3, 2016",2016-09-03,Barclaycard Arena,"Hamburg , Germany","11,763",11763,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Maia vs. Condit,"Aug 27, 2016",2016-08-27,Rogers Arena,"Vancouver , British Columbia , Canada","10,533",10533,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 202: Diaz vs. McGregor 2,"Aug 20, 2016",2016-08-20,T-Mobile Arena,"Las Vegas, Nevada , U.S.","15,539",15539,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rodríguez vs. Caceres,"Aug 6, 2016",2016-08-06,Vivint Smart Home Arena,"Salt Lake City, Utah , U.S.","6,689",6689,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 201: Lawler vs. Woodley,"Jul 30, 2016",2016-07-30,Philips Arena,"Atlanta, Georgia , U.S.","10,240",10240,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Holm vs. Shevchenko,"Jul 23, 2016",2016-07-23,United Center,"Chicago, Illinois , U.S.","10,287",10287,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: McDonald vs. Lineker,"Jul 13, 2016",2016-07-13,Denny Sanford Premier Center,"Sioux Falls, South Dakota , U.S.","5,671",5671,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 200: Tate vs. Nunes,"Jul 9, 2016",2016-07-09,T-Mobile Arena,"Las Vegas, Nevada , U.S.","18,202",18202,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale,"Jul 8, 2016",2016-07-08,MGM Grand Garden Arena,"8,115",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: MacDonald vs. Thompson,"Jun 18, 2016",2016-06-18,TD Place Arena,"Ottawa , Ontario , Canada","10,490",10490,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 199: Rockhold vs. Bisping 2,"Jun 4, 2016",2016-06-04,The Forum,"Inglewood, California , U.S.","15,587",15587,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Almeida vs. Garbrandt,"May 29, 2016",2016-05-29,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","5,193",5193,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 198: Werdum vs. Miocic,"May 14, 2016",2016-05-14,Arena da Baixada,"Curitiba , Brazil","45,207",45207,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Overeem vs. Arlovski,"May 8, 2016",2016-05-08,Rotterdam Ahoy,"Rotterdam , Netherlands","10,421",10421,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 197: Jones vs. Saint Preux,"Apr 23, 2016",2016-04-23,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","11,352",11352,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Teixeira vs. Evans,"Apr 16, 2016",2016-04-16,Amalie Arena,"Tampa, Florida , U.S.","11,273",11273,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rothwell vs. dos Santos,"Apr 10, 2016",2016-04-10,Arena Zagreb,"Zagreb , Croatia","13,177",13177,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hunt vs. Mir,"Mar 20, 2016",2016-03-20,Brisbane Entertainment Centre,"Brisbane , Australia","9,552",9552,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 196: McGregor vs. Diaz,"Mar 5, 2016",2016-03-05,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,898",14898,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Silva vs. Bisping,"Feb 27, 2016",2016-02-27,The O2 Arena,"London , England","16,734",16734,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Cowboy,"Feb 21, 2016",2016-02-21,Consol Energy Center,"Pittsburgh, Pennsylvania , U.S.","7,330",7330,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hendricks vs. Thompson,"Feb 6, 2016",2016-02-06,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","7,422",7422,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Johnson vs. Bader,"Jan 30, 2016",2016-01-30,Prudential Center,"Newark, New Jersey , U.S.","10,555",10555,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Dillashaw vs. Cruz,"Jan 17, 2016",2016-01-17,TD Garden,"Boston, Massachusetts , U.S.","12,022",12022,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 195: Lawler vs. Condit,"Jan 2, 2016",2016-01-02,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","10,300",10300,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: dos Anjos vs. Cowboy 2,"Dec 19, 2015",2015-12-19,Amway Center,"Orlando, Florida , U.S.","14,459",14459,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 194: Aldo vs. McGregor,"Dec 12, 2015",2015-12-12,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","16,516",16516,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team McGregor vs. Team Faber Finale,"Dec 11, 2015",2015-12-11,The Chelsea at The Cosmopolitan,"2,566",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Henderson vs. Masvidal,"Nov 28, 2015",2015-11-28,Olympic Gymnastics Arena,"Seoul , South Korea","12,156",12156,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter Latin America 2 Finale: Magny vs. Gastelum,"Nov 21, 2015",2015-11-21,Arena Monterrey,"Monterrey , Mexico","10,410",10410,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 193: Rousey vs. Holm,"Nov 15, 2015",2015-11-15,Marvel Stadium,"Melbourne , Australia","56,214",56214,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Belfort vs. Henderson 3,"Nov 7, 2015",2015-11-07,Ginásio do Ibirapuera,"São Paulo , Brazil","10,628",10628,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Holohan vs. Smolka,"Oct 24, 2015",2015-10-24,3Arena,"Dublin , Ireland","9,500",9500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 192: Cormier vs. Gustafsson,"Oct 3, 2015",2015-10-03,Toyota Center,"Houston, Texas , U.S.","14,622",14622,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Barnett vs. Nelson,"Sep 27, 2015",2015-09-27,Saitama Super Arena,"Saitama , Japan","10,137",10137,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 191: Johnson vs. Dodson 2,"Sep 5, 2015",2015-09-05,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","10,873",10873,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Holloway vs. Oliveira,"Aug 23, 2015",2015-08-23,SaskTel Centre,"Saskatoon, Saskatchewan , Canada","7,202",7202,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Teixeira vs. Saint Preux,"Aug 8, 2015",2015-08-08,Bridgestone Arena,"Nashville, Tennessee , U.S.","7,539",7539,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 190: Rousey vs. Correia,"Aug 1, 2015",2015-08-01,HSBC Arena,"Rio de Janeiro , Brazil","14,723",14723,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Dillashaw vs. Barão 2,"Jul 25, 2015",2015-07-25,United Center,"Chicago, Illinois , U.S.","11,663",11663,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bisping vs. Leites,"Jul 18, 2015",2015-07-18,The SSE Hydro,"Glasgow , Scotland","10,451",10451,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Mir vs. Duffee,"Jul 15, 2015",2015-07-15,Pechanga Arena,"San Diego, California , U.S.","5,471",5471,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: American Top Team vs. Blackzilians Finale,"Jul 12, 2015",2015-07-12,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","4,844",4844,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Machida vs. Romero,"Jun 27, 2015",2015-06-27,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida , U.S.","5,604",5604,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Jędrzejczyk vs. Penne,"Jun 20, 2015",2015-06-20,Uber Arena,"Berlin , Germany","8,155",8155,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 188: Velasquez vs. Werdum,"Jun 13, 2015",2015-06-13,Arena Ciudad de México,"Mexico City , Mexico","21,036",21036,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Boetsch vs. Henderson,"Jun 6, 2015",2015-06-06,Smoothie King Center,"New Orleans, Louisiana , U.S.","6,231",6231,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Condit vs. Alves,"May 30, 2015",2015-05-30,Goiânia Arena,"Goiânia , Brazil","3,500",3500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 187: Johnson vs. Cormier,"May 23, 2015",2015-05-23,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,615",12615,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Edgar vs. Faber,"May 16, 2015",2015-05-16,Mall of Asia Arena,"Pasay , Philippines","13,446",13446,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Miocic vs. Hunt,"May 10, 2015",2015-05-10,Adelaide Entertainment Centre,"Adelaide , Australia","7,984",7984,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 186: Johnson vs. Horiguchi,"Apr 25, 2015",2015-04-25,Bell Centre,"Montreal , Quebec , Canada","10,154",10154,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Machida vs. Rockhold,"Apr 18, 2015",2015-04-18,Prudential Center,"Newark, New Jersey , U.S.","13,306",13306,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gonzaga vs. Cro Cop 2,"Apr 11, 2015",2015-04-11,Tauron Arena Kraków,"Kraków , Poland","10,000",10000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Mendes vs. Lamas,"Apr 4, 2015",2015-04-04,Patriot Center,"Fairfax, Virginia , U.S.","5,417",5417,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Maia vs. LaFlare,"Mar 21, 2015",2015-03-21,Ginásio do Maracanãzinho,"Rio de Janeiro , Brazil","7,707",7707,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 185: Pettis vs. dos Anjos,"Mar 14, 2015",2015-03-14,American Airlines Center,"Dallas , Texas, U.S.","17,160",17160,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 184: Rousey vs. Zingano,"Feb 28, 2015",2015-02-28,Staples Center,"Los Angeles, California , U.S.","17,654",17654,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bigfoot vs. Mir,"Feb 22, 2015",2015-02-22,Ginásio Gigantinho,"Porto Alegre , Brazil","5,080",5080,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Henderson vs. Thatch,"Feb 14, 2015",2015-02-14,1stBank Center,"Broomfield, Colorado , U.S.","5,807",5807,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 183: Silva vs. Diaz,"Jan 31, 2015",2015-01-31,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,114",13114,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Gustafsson vs. Johnson,"Jan 24, 2015",2015-01-24,Tele2 Arena,"Stockholm , Sweden","30,000",30000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: McGregor vs. Siver,"Jan 18, 2015",2015-01-18,TD Garden,"Boston, Massachusetts , U.S.","13,828",13828,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 182: Jones vs. Cormier,"Jan 3, 2015",2015-01-03,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","11,575",11575,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Machida vs. Dollaway,"Dec 20, 2014",2014-12-20,Ginásio José Corrêa,"Barueri , Brazil",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: dos Santos vs. Miocic,"Dec 13, 2014",2014-12-13,U.S. Airways Center,"Phoenix, Arizona , U.S.","15,300",15300,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: A Champion Will Be Crowned Finale,"Dec 12, 2014",2014-12-12,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,800",1800,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 181: Hendricks vs. Lawler II,"Dec 6, 2014",2014-12-06,Mandalay Bay Events Center,"9,617",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Edgar vs. Swanson,"Nov 22, 2014",2014-11-22,Frank Erwin Center,"Austin, Texas , U.S.","10,131",10131,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 180: Werdum vs. Hunt,"Nov 15, 2014",2014-11-15,Arena Ciudad de México,"Mexico City , Mexico","21,000",21000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shogun vs. Saint Preux,"Nov 8, 2014",2014-11-08,Ginásio Municipal Tancredo Neves,"Uberlândia , Brazil","5,671",5671,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rockhold vs. Bisping,"Nov 8, 2014",2014-11-08,Qudos Bank Arena,"Sydney , Australia","9,904",9904,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 179: Aldo vs. Mendes 2,"Oct 25, 2014",2014-10-25,Ginásio do Maracanãzinho,"Rio de Janeiro , Brazil","11,415",11415,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: MacDonald vs. Saffiedine,"Oct 4, 2014",2014-10-04,Scotiabank Centre,"Halifax, Nova Scotia , Canada","10,782",10782,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Nelson vs. Story,"Oct 4, 2014",2014-10-04,Avicii Arena,"Stockholm , Sweden","10,026",10026,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 178: Johnson vs. Cariaso,"Sep 27, 2014",2014-09-27,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","10,544",10544,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hunt vs. Nelson,"Sep 20, 2014",2014-09-20,Saitama Super Arena,"Saitama , Japan","12,395",12395,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bigfoot vs. Arlovski,"Sep 13, 2014",2014-09-13,Ginásio Nilson Nelson,"Brasília , Brazil","8,822",8822,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Jacaré vs. Mousasi,"Sep 5, 2014",2014-09-05,Foxwoods Resort Casino,"Ledyard, Connecticut , U.S.","4,086",4086,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 177: Dillashaw vs. Soto,"Aug 30, 2014",2014-08-30,Sleep Train Arena,"Sacramento, California , U.S.","11,100",11100,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Henderson vs. dos Anjos,"Aug 23, 2014",2014-08-23,BOK Center,"Tulsa, Oklahoma , U.S.","7,119",7119,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bisping vs. Le,"Aug 23, 2014",2014-08-23,Cotai Arena,"Macau SAR , China","7,022",7022,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Bader vs. Saint Preux,"Aug 16, 2014",2014-08-16,Cross Insurance Center,"Bangor, Maine , U.S.","5,329",5329,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 176: Aldo vs. Mendes II,"Aug 2, 2014",2014-08-02,Staples Center,"Los Angeles, California , U.S.",Canceled,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Lawler vs. Brown,"Jul 26, 2014",2014-07-26,SAP Center,"San Jose, California , U.S.","11,482",11482,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: McGregor vs. Brandão,"Jul 19, 2014",2014-07-19,3Arena,"Dublin , Ireland","9,500",9500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Cowboy vs. Miller,"Jul 16, 2014",2014-07-16,Revel Casino Hotel,"Atlantic City, New Jersey , U.S.","4,115",4115,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Edgar vs. Team Penn Finale,"Jul 6, 2014",2014-07-06,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","6,500",6500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Swanson vs. Stephens,"Jun 28, 2014",2014-06-28,AT&T Center,"San Antonio, Texas , U.S.","9,227",9227,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Te Huna vs. Marquardt,"Jun 28, 2014",2014-06-28,Vector Arena,"Auckland , New Zealand","8,089",8089,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 174: Johnson vs. Bagautinov,"Jun 14, 2014",2014-06-14,Rogers Arena,"Vancouver , British Columbia , Canada","13,506",13506,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Henderson vs. Khabilov,"Jun 7, 2014",2014-06-07,Tingley Coliseum,"Albuquerque, New Mexico , U.S.","8,775",8775,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter Brazil 3 Finale: Miocic vs. Maldonado,"May 31, 2014",2014-05-31,Ginásio do Ibirapuera,"São Paulo , Brazil","8,986",8986,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Muñoz vs. Mousasi,"May 31, 2014",2014-05-31,Uber Arena,"Berlin , Germany","8,000",8000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 173: Barão vs. Dillashaw,"May 24, 2014",2014-05-24,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","11,036",11036,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Brown vs. Silva,"May 10, 2014",2014-05-10,U.S. Bank Arena,"Cincinnati, Ohio , U.S.","6,143",6143,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 172: Jones vs. Teixeira,"Apr 26, 2014",2014-04-26,Baltimore Arena,"Baltimore, Maryland , U.S.","13,485",13485,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Werdum vs. Browne,"Apr 19, 2014",2014-04-19,Amway Center,"Orlando, Florida , U.S.","17,000",17000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter Nations Finale: Bisping vs. Kennedy,"Apr 16, 2014",2014-04-16,Colisée Pepsi,"Quebec City, Quebec , Canada","5,029",5029,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Nogueira vs. Nelson,"Apr 11, 2014",2014-04-11,Etihad Park,"Abu Dhabi , United Arab Emirates","7,963",7963,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shogun vs. Henderson 2,"Mar 23, 2014",2014-03-23,Ginásio Nélio Dias,"Natal , Brazil","6,828",6828,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 171: Hendricks vs. Lawler,"Mar 15, 2014",2014-03-15,American Airlines Center,"Dallas , Texas, U.S.","19,324",19324,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Gustafsson vs. Manuwa,"Mar 8, 2014",2014-03-08,The O2 Arena,"London , England","14,604",14604,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter China Finale: Kim vs. Hathaway,"Mar 1, 2014",2014-03-01,Cotai Arena,"Macau SAR , China","6,000",6000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 170: Rousey vs. McMann,"Feb 22, 2014",2014-02-22,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,217",10217,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Machida vs. Mousasi,"Feb 15, 2014",2014-02-15,Arena Jaraguá,"Jaraguá do Sul , Brazil","7,511",7511,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 169: Barão vs. Faber 2,"Feb 1, 2014",2014-02-01,Prudential Center,"Newark, New Jersey , U.S.","14,308",14308,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Henderson vs. Thomson,"Jan 25, 2014",2014-01-25,United Center,"Chicago, Illinois , U.S.","10,895",10895,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Rockhold vs. Philippou,"Jan 15, 2014",2014-01-15,Arena at Gwinnett Center,"Duluth, Georgia , U.S.","5,822",5822,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Saffiedine vs. Lim,"Jan 4, 2014",2014-01-04,Marina Bay Sands,"Marina Bay , Singapore","5,216",5216,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 168: Weidman vs. Silva 2,"Dec 28, 2013",2013-12-28,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","15,650",15650,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Johnson vs. Benavidez 2,"Dec 14, 2013",2013-12-14,Sleep Train Arena,"Sacramento, California , U.S.","11,573",11573,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Hunt vs. Bigfoot,"Dec 7, 2013",2013-12-07,Brisbane Entertainment Centre,"Brisbane , Australia","11,393",11393,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Rousey vs. Team Tate Finale,"Nov 30, 2013",2013-11-30,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","4,853",4853,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 167: St-Pierre vs. Hendricks,"Nov 16, 2013",2013-11-16,MGM Grand Garden Arena,"14,856",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Belfort vs. Henderson 2,"Nov 9, 2013",2013-11-09,Goiânia Arena,"Goiânia , Brazil","10,565",10565,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC: Fight for the Troops 3,"Nov 6, 2013",2013-11-06,Fort Campbell,"Fort Campbell, Kentucky , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Machida vs. Muñoz,"Oct 26, 2013",2013-10-26,Phones 4u Arena,"Manchester , England","10,355",10355,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 166: Velasquez vs. dos Santos III,"Oct 19, 2013",2013-10-19,Toyota Center,"Houston, Texas , U.S.","17,238",17238,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Maia vs. Shields,"Oct 9, 2013",2013-10-09,Ginásio José Corrêa,"Barueri , Brazil","6,621",6621,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 165: Jones vs. Gustafsson,"Sep 21, 2013",2013-09-21,Scotiabank Arena,"Toronto , Ontario , Canada","15,504",15504,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Teixeira vs. Bader,"Sep 4, 2013",2013-09-04,Mineirinho Arena,"Belo Horizonte , Brazil","5,126",5126,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 164: Henderson vs. Pettis 2,"Aug 31, 2013",2013-08-31,BMO Harris Bradley Center,"Milwaukee, Wisconsin , U.S.","9,178",9178,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Condit vs. Kampmann 2,"Aug 28, 2013",2013-08-28,Bankers Life Fieldhouse,"Indianapolis, Indiana , U.S.","6,417",6417,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shogun vs. Sonnen,"Aug 17, 2013",2013-08-17,TD Garden,"Boston, Massachusetts , U.S.","14,181",14181,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 163: Aldo vs. Korean Zombie,"Aug 3, 2013",2013-08-03,HSBC Arena,"Rio de Janeiro , Brazil","13,873",13873,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Johnson vs. Moraga,"Jul 27, 2013",2013-07-27,Climate Pledge Arena,"Seattle, Washington , U.S.","8,967",8967,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 162: Silva vs. Weidman,"Jul 6, 2013",2013-07-06,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,964",12964,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 161: Evans vs. Henderson,"Jun 15, 2013",2013-06-15,Canada Life Centre,"Winnipeg , Manitoba , Canada","14,754",14754,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Nogueira vs. Werdum,"Jun 8, 2013",2013-06-08,Ginásio Paulo Sarasate,"Fortaleza , Brazil","6,286",6286,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 160: Velasquez vs. Bigfoot 2,"May 25, 2013",2013-05-25,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,380",12380,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Belfort vs. Rockhold,"May 18, 2013",2013-05-18,Arena Jaraguá,"Jaraguá do Sul , Brazil","7,642",7642,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 159: Jones vs. Sonnen,"Apr 27, 2013",2013-04-27,Prudential Center,"Newark, New Jersey , U.S.","15,227",15227,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Henderson vs. Melendez,"Apr 20, 2013",2013-04-20,SAP Center,"San Jose, California , U.S.","13,506",13506,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Jones vs. Team Sonnen Finale,"Apr 13, 2013",2013-04-13,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","5,918",5918,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Mousasi vs. Latifi,"Apr 6, 2013",2013-04-06,Avicii Arena,"Stockholm , Sweden","14,506",14506,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 158: St-Pierre vs. Diaz,"Mar 16, 2013",2013-03-16,Bell Centre,"Montreal , Quebec , Canada","20,145",20145,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Silva vs. Stann,"Mar 3, 2013",2013-03-03,Saitama Super Arena,"Saitama , Japan","14,682",14682,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 157: Rousey vs. Carmouche,"Feb 23, 2013",2013-02-23,Honda Center,"Anaheim, California , U.S.","13,257",13257,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Barão vs. McDonald,"Feb 16, 2013",2013-02-16,Wembley Arena,"London , England","10,349",10349,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 156: Aldo vs. Edgar,"Feb 2, 2013",2013-02-02,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,275",10275,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Johnson vs. Dodson,"Jan 26, 2013",2013-01-26,United Center,"Chicago, Illinois , U.S.","16,091",16091,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Belfort vs. Bisping,"Jan 19, 2013",2013-01-19,Ginásio do Ibirapuera,"São Paulo , Brazil","9,116",9116,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 155: dos Santos vs. Velasquez 2,"Dec 29, 2012",2012-12-29,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,561",13561,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Carwin vs. Team Nelson Finale,"Dec 15, 2012",2012-12-15,Hard Rock Hotel and Casino,"2,500",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Sotiropoulos vs. Pearson,"Dec 15, 2012",2012-12-15,Gold Coast Convention and Exhibition Centre,"Gold Coast , Australia","5,133",5133,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Henderson vs. Diaz,"Dec 8, 2012",2012-12-08,Climate Pledge Arena,"Seattle, Washington , U.S.","14,387",14387,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 154: St-Pierre vs. Condit,"Nov 17, 2012",2012-11-17,Bell Centre,"Montreal , Quebec , Canada","17,249",17249,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Franklin vs. Le,"Nov 10, 2012",2012-11-10,Cotai Arena,"Macau SAR , China","8,415",8415,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 153: Silva vs. Bonnar,"Oct 13, 2012",2012-10-13,Farmasi Arena,"Rio de Janeiro , Brazil","16,844",16844,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Browne vs. Bigfoot,"Oct 5, 2012",2012-10-05,Target Center,"Minneapolis, Minnesota , U.S.","7,049",7049,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Struve vs. Miocic,"Sep 29, 2012",2012-09-29,Motorpoint Arena,"Nottingham , England","7,241",7241,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 152: Jones vs. Belfort,"Sep 22, 2012",2012-09-22,Scotiabank Arena,"Toronto , Ontario , Canada","16,800",16800,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 151: Jones vs. Henderson,"Sep 1, 2012",2012-09-01,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.",Canceled,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 150: Henderson vs. Edgar II,"Aug 11, 2012",2012-08-11,Ball Arena,"Denver, Colorado , U.S.","13,027",13027,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Shogun vs. Vera,"Aug 4, 2012",2012-08-04,Crypto.com Arena,"Los Angeles, California , U.S.","16,080",16080,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 149: Faber vs. Barão,"Jul 21, 2012",2012-07-21,Scotiabank Saddledome,"Calgary , Alberta , Canada","16,089",16089,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Muñoz vs. Weidman,"Jul 11, 2012",2012-07-11,SAP Center,"San Jose, California , U.S.","4,250",4250,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 148: Silva vs. Sonnen II,"Jul 7, 2012",2012-07-07,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","15,104",15104,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 147: Silva vs. Franklin II,"Jun 23, 2012",2012-06-23,Mineirinho Arena,"Belo Horizonte , Brazil","16,643",16643,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Maynard vs. Guida,"Jun 22, 2012",2012-06-22,Revel Casino Hotel,"Atlantic City, New Jersey , U.S.","4,652",4652,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Johnson vs. McCall 2,"Jun 8, 2012",2012-06-08,Amerant Bank Arena,"Sunrise, Florida , U.S.","6,635",6635,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Live Finale,"Jun 1, 2012",2012-06-01,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,628",1628,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 146: dos Santos vs. Mir,"May 26, 2012",2012-05-26,MGM Grand Garden Arena,"14,674",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: The Korean Zombie vs. Poirier,"May 15, 2012",2012-05-15,EagleBank Arena,"Fairfax, Virginia , U.S.","6,668",6668,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Diaz vs. Miller,"May 5, 2012",2012-05-05,Meadowlands Arena,"East Rutherford, New Jersey , U.S.","10,788",10788,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 145: Jones vs. Evans,"Apr 21, 2012",2012-04-21,Philips Arena,"Atlanta, Georgia , U.S.","15,545",15545,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Gustafsson vs. Silva,"Apr 14, 2012",2012-04-14,Avicii Arena,"Stockholm , Sweden","15,428",15428,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Alves vs. Kampmann,"Mar 3, 2012",2012-03-03,Qudos Bank Arena,"Sydney , Australia","14,537",14537,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 144: Edgar vs. Henderson,"Feb 26, 2012",2012-02-26,Saitama Super Arena,"Saitama , Japan","21,000",21000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fuel TV: Sanchez vs. Ellenberger,"Feb 15, 2012",2012-02-15,Omaha Civic Auditorium,"Omaha, Nebraska , U.S.","6,283",6283,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 143: Diaz vs. Condit,"Feb 4, 2012",2012-02-04,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","9,015",9015,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Evans vs. Davis,"Jan 28, 2012",2012-01-28,United Center,"Chicago, Illinois , U.S.","16,963",16963,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on FX: Guillard vs. Miller,"Jan 20, 2012",2012-01-20,Bridgestone Arena,"Nashville, Tennessee , U.S.","7,728",7728,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 142: Aldo vs. Mendes,"Jan 14, 2012",2012-01-14,HSBC Arena,"Rio de Janeiro , Brazil","10,605",10605,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 141: Lesnar vs. Overeem,"Dec 30, 2011",2011-12-30,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,793",13793,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 140: Jones vs. Machida,"Dec 10, 2011",2011-12-10,Scotiabank Arena,"Toronto , Ontario , Canada","18,303",18303,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Bisping vs. Team Miller Finale,"Dec 3, 2011",2011-12-03,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,909",1909,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 139: Shogun vs. Henderson,"Nov 19, 2011",2011-11-19,SAP Center,"San Jose, California , U.S.","13,832",13832,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC on Fox: Velasquez vs. dos Santos,"Nov 12, 2011",2011-11-12,Honda Center,"Anaheim, California , U.S.","11,607",11607,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 138: Leben vs. Muñoz,"Nov 5, 2011",2011-11-05,LG Arena,"Birmingham , England","10,823",10823,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 137: Penn vs. Diaz,"Oct 29, 2011",2011-10-29,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,313",10313,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 136: Edgar vs. Maynard III,"Oct 8, 2011",2011-10-08,Toyota Center,"Houston, Texas , U.S.","16,164",16164,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Cruz vs. Johnson,"Oct 1, 2011",2011-10-01,Capital One Arena,"Washington, D.C. , U.S.","9,380",9380,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 135: Jones vs. Rampage,"Sep 24, 2011",2011-09-24,Pepsi Center,"Denver, Colorado , U.S.","16,344",16344,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Shields vs. Ellenberger,"Sep 17, 2011",2011-09-17,Ernest N. Morial Convention Center,"New Orleans, Louisiana , U.S.","7,112",7112,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 134: Silva vs. Okami,"Aug 27, 2011",2011-08-27,HSBC Arena,"Rio de Janeiro , Brazil","14,000",14000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Hardy vs. Lytle,"Aug 14, 2011",2011-08-14,Bradley Center,"Milwaukee, Wisconsin , U.S.","6,751",6751,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 133: Evans vs. Ortiz,"Aug 6, 2011",2011-08-06,Wells Fargo Center,"Philadelphia, Pennsylvania , U.S.","11,583",11583,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 132: Cruz vs. Faber,"Jul 2, 2011",2011-07-02,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,109",13109,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Kongo vs. Barry,"Jun 26, 2011",2011-06-26,Consol Energy Center,"Pittsburgh, Pennsylvania , U.S.","7,792",7792,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 131: dos Santos vs. Carwin,"Jun 11, 2011",2011-06-11,Rogers Arena,"Vancouver , British Columbia , Canada","14,685",14685,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Lesnar vs. Team dos Santos Finale,"Jun 4, 2011",2011-06-04,Palms Casino Resort,"Las Vegas, Nevada , U.S.","2,053",2053,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 130: Rampage vs. Hamill,"May 28, 2011",2011-05-28,MGM Grand Garden Arena,"12,753",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 129: St-Pierre vs. Shields,"Apr 30, 2011",2011-04-30,Rogers Centre,"Toronto , Ontario , Canada","55,724",55724,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Nogueira vs. Davis,"Mar 26, 2011",2011-03-26,Climate Pledge Arena,"Seattle, Washington , U.S.","13,741",13741,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 128: Shogun vs. Jones,"Mar 19, 2011",2011-03-19,Prudential Center,"Newark, New Jersey , U.S.","12,619",12619,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Sanchez vs. Kampmann,"Mar 3, 2011",2011-03-03,KFC Yum! Center,"Louisville, Kentucky , U.S.","8,319",8319,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 127: Penn vs. Fitch,"Feb 27, 2011",2011-02-27,Qudos Bank Arena,"Sydney , Australia","18,186",18186,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 126: Silva vs. Belfort,"Feb 5, 2011",2011-02-05,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,893",10893,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC: Fight for the Troops 2,"Jan 22, 2011",2011-01-22,Fort Hood,"Fort Hood, Texas , U.S.","3,200",3200,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 125: Resolution,"Jan 1, 2011",2011-01-01,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,874",12874,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 124: St-Pierre vs. Koscheck 2,"Dec 11, 2010",2010-12-11,Bell Centre,"Montreal , Quebec , Canada","23,152",23152,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team GSP vs. Team Koscheck Finale,"Dec 4, 2010",2010-12-04,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,903",1903,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 123: Rampage vs. Machida,"Nov 20, 2010",2010-11-20,The Palace of Auburn Hills,"Auburn Hills, Michigan , U.S.","16,404",16404,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 122: Marquardt vs. Okami,"Nov 13, 2010",2010-11-13,Rudolf Weber-Arena,"Oberhausen , Germany","8,421",8421,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 121: Lesnar vs. Velasquez,"Oct 23, 2010",2010-10-23,Honda Center,"Anaheim, California , U.S.","14,856",14856,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 120: Bisping vs. Akiyama,"Oct 16, 2010",2010-10-16,The O2 Arena,"London , England","17,133",17133,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 119: Mir vs. Cro Cop,"Sep 25, 2010",2010-09-25,Conseco Fieldhouse,"Indianapolis, Indiana , U.S.","15,811",15811,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Marquardt vs. Palhares,"Sep 15, 2010",2010-09-15,Frank Erwin Center,"Austin, Texas , U.S.","7,724",7724,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 118: Edgar vs. Penn 2,"Aug 28, 2010",2010-08-28,TD Garden,"Boston, Massachusetts , U.S.","14,168",14168,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 117: Silva vs. Sonnen,"Aug 7, 2010",2010-08-07,Oracle Arena,"Oakland, California , U.S.","12,971",12971,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Jones vs. Matyushenko,"Aug 1, 2010",2010-08-01,Pechanga Arena,"San Diego, California , U.S.","8,132",8132,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 116: Lesnar vs. Carwin,"Jul 3, 2010",2010-07-03,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,740",12740,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Liddell vs. Team Ortiz Finale,"Jun 19, 2010",2010-06-19,Palms Casino Resort,"1,708",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 115: Liddell vs. Franklin,"Jun 12, 2010",2010-06-12,General Motors Place,"Vancouver , British Columbia , Canada","17,669",17669,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 114: Rampage vs. Evans,"May 29, 2010",2010-05-29,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,996",14996,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 113: Machida vs. Shogun 2,"May 8, 2010",2010-05-08,Bell Centre,"Montreal , Quebec , Canada","17,647",17647,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 112: Invincible,"Apr 10, 2010",2010-04-10,"Concert Arena,","Abu Dhabi , United Arab Emirates","11,008",11008,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Florian vs. Gomi,"Mar 31, 2010",2010-03-31,Bojangles Coliseum,"Charlotte, North Carolina , U.S.","7,700",7700,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 111: St-Pierre vs. Hardy,"Mar 27, 2010",2010-03-27,Prudential Center,"Newark, New Jersey , U.S.","17,000",17000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Live: Vera vs. Jones,"Mar 21, 2010",2010-03-21,1stBank Center,"Broomfield, Colorado , U.S.","6,443",6443,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 110: Nogueira vs. Velasquez,"Feb 21, 2010",2010-02-21,Qudos Bank Arena,"Sydney , Australia","17,831",17831,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 109: Relentless,"Feb 6, 2010",2010-02-06,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,753",10753,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Maynard vs. Diaz,"Jan 11, 2010",2010-01-11,Patriot Center,"Fairfax, Virginia , U.S.","8,078",8078,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 108: Evans vs. Silva,"Jan 2, 2010",2010-01-02,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,529",13529,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 107: Penn vs. Sanchez,"Dec 12, 2009",2009-12-12,FedExForum,"Memphis, Tennessee , U.S.","13,896",13896,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Heavyweights Finale,"Dec 5, 2009",2009-12-05,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,791",1791,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 106: Ortiz vs. Griffin 2,"Nov 21, 2009",2009-11-21,Mandalay Bay Events Center,"10,529",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 105: Couture vs. Vera,"Nov 14, 2009",2009-11-14,Manchester Evening News Arena,"Manchester , England","16,693",16693,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 104: Machida vs. Shogun,"Oct 24, 2009",2009-10-24,Crypto.com Arena,"Los Angeles, California , U.S.","14,892",14892,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 103: Franklin vs. Belfort,"Sep 19, 2009",2009-09-19,American Airlines Center,"Dallas , Texas, U.S.","17,428",17428,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Diaz vs. Guillard,"Sep 16, 2009",2009-09-16,Cox Convention Center,"Oklahoma City, Oklahoma , U.S.","9,490",9490,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 102: Couture vs. Nogueira,"Aug 29, 2009",2009-08-29,Rose Garden,"Portland, Oregon , U.S.","16,088",16088,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 101: Declaration,"Aug 8, 2009",2009-08-08,Wachovia Center,"Philadelphia, Pennsylvania , U.S.","17,411",17411,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 100,"Jul 11, 2009",2009-07-11,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,871",10871,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: United States vs. United Kingdom Finale,"Jun 20, 2009",2009-06-20,Palms Casino Resort,"2,217",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 99: The Comeback,"Jun 13, 2009",2009-06-13,Lanxess Arena,"Cologne , Germany","12,854",12854,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 98: Evans vs. Machida,"May 23, 2009",2009-05-23,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,606",12606,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 97: Redemption,"Apr 18, 2009",2009-04-18,Bell Centre,"Montreal , Quebec , Canada","21,451",21451,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Condit vs. Kampmann,"Apr 1, 2009",2009-04-01,Sommet Center,"Nashville, Tennessee , U.S.","10,267",10267,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 96: Jackson vs. Jardine,"Mar 7, 2009",2009-03-07,Nationwide Arena,"Columbus, Ohio , U.S.","17,033",17033,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 95: Sanchez vs. Stevenson,"Feb 21, 2009",2009-02-21,The O2 Arena,"London , England","13,268",13268,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Lauzon vs. Stephens,"Feb 7, 2009",2009-02-07,USF Sun Dome,"Tampa, Florida , U.S.","7,596",7596,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 94: St-Pierre vs. Penn 2,"Jan 31, 2009",2009-01-31,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,885",14885,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 93: Franklin vs. Henderson,"Jan 17, 2009",2009-01-17,3Arena,"Dublin , Ireland","9,369",9369,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 92: The Ultimate 2008,"Dec 27, 2008",2008-12-27,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,166",14166,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Nogueira vs. Team Mir Finale,"Dec 13, 2008",2008-12-13,Palms Casino Resort,"1,853",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC: Fight for the Troops,"Dec 10, 2008",2008-12-10,Crown Coliseum,"Fayetteville, North Carolina , U.S.","8,500",8500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 91: Couture vs. Lesnar,"Nov 15, 2008",2008-11-15,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,272",14272,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 90: Silva vs. Côté,"Oct 25, 2008",2008-10-25,Allstate Arena,"Rosemont, Illinois , U.S.","15,359",15359,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 89: Bisping vs. Leben,"Oct 18, 2008",2008-10-18,National Indoor Arena,"Birmingham , England","9,515",9515,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Diaz vs. Neer,"Sep 17, 2008",2008-09-17,Omaha Civic Auditorium,"Omaha, Nebraska , U.S.","9,103",9103,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 88: Breakthrough,"Sep 6, 2008",2008-09-06,State Farm Arena,"Atlanta, Georgia , U.S.","14,736",14736,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 87: Seek and Destroy,"Aug 9, 2008",2008-08-09,Target Center,"Minneapolis, Minnesota , U.S.","15,087",15087,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Silva vs. Irvin,"Jul 19, 2008",2008-07-19,Palms Casino Resort,"Las Vegas, Nevada , U.S.","2,071",2071,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 86: Jackson vs. Griffin,"Jul 5, 2008",2008-07-05,Mandalay Bay Events Center,"10,990",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Rampage vs. Team Forrest Finale,"Jun 21, 2008",2008-06-21,Palms Casino Resort,"1,853",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 85: Bedlam,"Jun 7, 2008",2008-06-07,The O2 Arena,"London , England","15,327",15327,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 84: Ill Will,"May 24, 2008",2008-05-24,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,773",14773,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 83: Serra vs. St-Pierre 2,"Apr 19, 2008",2008-04-19,Bell Centre,"Montreal , Quebec , Canada","21,390",21390,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Florian vs. Lauzon,"Apr 2, 2008",2008-04-02,Broomfield Event Center,"Broomfield, Colorado , U.S.","6,742",6742,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 82: Pride of a Champion,"Mar 1, 2008",2008-03-01,Nationwide Arena,"Columbus, Ohio , U.S.","16,431",16431,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 81: Breaking Point,"Feb 2, 2008",2008-02-02,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,583",10583,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Swick vs. Burkman,"Jan 23, 2008",2008-01-23,Palms Casino Resort,"1,900",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 80: Rapid Fire,"Jan 19, 2008",2008-01-19,Metro Radio Arena,"Newcastle upon Tyne , England","8,412",8412,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 79: Nemesis,"Dec 29, 2007",2007-12-29,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","11,075",11075,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Hughes vs. Team Serra Finale,"Dec 8, 2007",2007-12-08,Palms Casino Resort,— N/a,,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 78: Validation,"Nov 17, 2007",2007-11-17,Prudential Center,"Newark, New Jersey , U.S.","14,071",14071,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 77: Hostile Territory,"Oct 20, 2007",2007-10-20,U.S. Bank Arena,"Cincinnati, Ohio , U.S.","16,054",16054,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 76: Knockout,"Sep 22, 2007",2007-09-22,Honda Center,"Anaheim, California , U.S.","13,770",13770,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Thomas vs. Florian,"Sep 19, 2007",2007-09-19,Palms Casino Resort,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 75: Champion vs. Champion,"Sep 8, 2007",2007-09-08,The O2 Arena,"London , England","16,235",16235,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 74: Respect,"Aug 25, 2007",2007-08-25,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","11,065",11065,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 73: Stacked,"Jul 7, 2007",2007-07-07,ARCO Arena,"Sacramento, California , U.S.","13,183",13183,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Pulver vs. Team Penn Finale,"Jun 23, 2007",2007-06-23,Palms Casino Resort,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 72: Victory,"Jun 16, 2007",2007-06-16,The Odyssey,"Belfast , Northern Ireland","7,850",7850,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Stout vs. Fisher,"Jun 12, 2007",2007-06-12,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 71: Liddell vs. Jackson,"May 26, 2007",2007-05-26,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,728",14728,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 70: Nations Collide,"Apr 21, 2007",2007-04-21,Manchester Evening News Arena,"Manchester , England","15,114",15114,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 69: Shootout,"Apr 7, 2007",2007-04-07,Toyota Center,"Houston, Texas , U.S.","15,269",15269,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Stevenson vs. Guillard,"Apr 5, 2007",2007-04-05,Palms Casino Resort,"Las Vegas, Nevada , U.S.","1,734",1734,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 68: The Uprising,"Mar 3, 2007",2007-03-03,Nationwide Arena,"Columbus, Ohio , U.S.","19,079",19079,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 67: All or Nothing,"Feb 3, 2007",2007-02-03,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,787",10787,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Evans vs. Salmon,"Jan 25, 2007",2007-01-25,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida , U.S.","5,287",5287,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 66: Liddell vs. Ortiz,"Dec 30, 2006",2006-12-30,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,671",13671,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night: Sanchez vs. Riggs,"Dec 13, 2006",2006-12-13,Marine Corps Air Station Miramar,"San Diego, California , U.S.","3,000",3000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 65: Bad Intentions,"Nov 18, 2006",2006-11-18,ARCO Arena,"Sacramento, California , U.S.","14,666",14666,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: The Comeback Finale,"Nov 11, 2006",2006-11-11,Hard Rock Hotel and Casino,"Las Vegas, Nevada , U.S.","1,000",1000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 64: Unstoppable,"Oct 14, 2006",2006-10-14,Mandalay Bay Events Center,"10,173",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night 6.5,"Oct 10, 2006",2006-10-10,Seminole Hard Rock Hotel and Casino,"Hollywood, Florida , U.S.","3,510",3510,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 63: Hughes vs. Penn,"Sep 23, 2006",2006-09-23,Honda Center,"Anaheim, California , U.S.","12,604",12604,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 62: Liddell vs. Sobral,"Aug 26, 2006",2006-08-26,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,503",10503,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Fight Night 6,"Aug 17, 2006",2006-08-17,Red Rock Resort Spa and Casino,"Summerlin , Nevada , U.S.","1,412",1412,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 61: Bitter Rivals,"Jul 8, 2006",2006-07-08,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","11,167",11167,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Ultimate Fight Night 5,"Jun 28, 2006",2006-06-28,Hard Rock Hotel and Casino,606,[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 60: Hughes vs. Gracie,"May 27, 2006",2006-05-27,Staples Center,"Los Angeles, California , U.S.","14,765",14765,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 59: Reality Check,"Apr 15, 2006",2006-04-15,Honda Center,"Anaheim, California , U.S.","13,814",13814,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Ultimate Fight Night 4,"Apr 6, 2006",2006-04-06,Hard Rock Hotel and Casino,"Las Vegas, Nevada , U.S.",843,843,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 58: USA vs. Canada,"Mar 4, 2006",2006-03-04,Mandalay Bay Events Center,"9,569",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Ultimate Fight Night 3,"Jan 16, 2006",2006-01-16,Hard Rock Hotel and Casino,"1,008",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 56: Full Force,"Nov 19, 2005",2005-11-19,MGM Grand Garden Arena,"12,000",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Hughes vs. Team Franklin Finale,"Nov 5, 2005",2005-11-05,Hard Rock Hotel and Casino,— N/a,,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 55: Fury,"Oct 7, 2005",2005-10-07,Mohegan Sun Arena,"Montville, Connecticut , U.S.","8,000",8000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Ultimate Fight Night 2,"Oct 3, 2005",2005-10-03,Hard Rock Hotel and Casino,"Las Vegas, Nevada , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 54: Boiling Point,"Aug 20, 2005",2005-08-20,MGM Grand Garden Arena,"13,520",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Ultimate Fight Night,"Aug 6, 2005",2005-08-06,Cox Pavilion,— N/a,,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 53: Heavy Hitters,"Jun 4, 2005",2005-06-04,Boardwalk Hall,"Atlantic City, New Jersey , U.S.","12,000",12000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 52: Couture vs. Liddell,"Apr 16, 2005",2005-04-16,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","14,562",14562,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+The Ultimate Fighter: Team Couture vs. Team Liddell Finale,"Apr 9, 2005",2005-04-09,Cox Pavilion,— N/a,,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 51: Super Saturday,"Feb 5, 2005",2005-02-05,Mandalay Bay Events Center,"11,072",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 50: The War of '04,"Oct 22, 2004",2004-10-22,Boardwalk Hall,"Atlantic City, New Jersey , U.S.","9,000",9000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 49: Unfinished Business,"Aug 21, 2004",2004-08-21,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","12,100",12100,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 48: Payback,"Jun 19, 2004",2004-06-19,Mandalay Bay Events Center,"10,000",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 45: Revolution,"Nov 21, 2003",2003-11-21,Mohegan Sun Arena,"Montville, Connecticut , U.S.","9,200",9200,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 44: Undisputed,"Sep 26, 2003",2003-09-26,Mandalay Bay Events Center,"Las Vegas, Nevada , U.S.","10,400",10400,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 43: Meltdown,"Jun 6, 2003",2003-06-06,Thomas & Mack Center,"9,800",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 42: Sudden Impact,"Apr 25, 2003",2003-04-25,American Airlines Arena,"Miami, Florida , U.S.","7,500",7500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 41: Onslaught,"Feb 28, 2003",2003-02-28,Boardwalk Hall,"Atlantic City, New Jersey , U.S.","11,707",11707,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 40: Vendetta,"Nov 22, 2002",2002-11-22,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","13,770",13770,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 39: The Warriors Return,"Sep 27, 2002",2002-09-27,Mohegan Sun Arena,"Montville, Connecticut , U.S.","7,800",7800,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 38: Brawl at the Hall,"Jul 13, 2002",2002-07-13,Royal Albert Hall,"London , England","5,000",5000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 37.5: As Real As It Gets,"Jun 22, 2002",2002-06-22,Bellagio,"Las Vegas, Nevada , U.S.","3,700",3700,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 37: High Impact,"May 10, 2002",2002-05-10,CenturyTel Center,"Bossier City, Louisiana , U.S.","7,200",7200,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 36: Worlds Collide,"Mar 22, 2002",2002-03-22,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","10,000",10000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 35: Throwdown,"Jan 11, 2002",2002-01-11,Mohegan Sun Arena,"Uncasville, Connecticut , U.S.","9,600",9600,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 34: High Voltage,"Nov 2, 2001",2001-11-02,MGM Grand Garden Arena,"Las Vegas, Nevada , U.S.","9,000",9000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 33: Victory in Vegas,"Sep 28, 2001",2001-09-28,Mandalay Bay Events Center,"9,500",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 32: Showdown in the Meadowlands,"Jun 29, 2001",2001-06-29,Continental Airlines Arena,"East Rutherford, New Jersey , U.S.","12,500",12500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 31: Locked and Loaded,"May 4, 2001",2001-05-04,Etess Arena,"Atlantic City, New Jersey , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 29: Defense of the Belts,"Dec 16, 2000",2000-12-16,Differ Ariake Arena,"Tokyo , Japan","1,414",1414,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 28: High Stakes,"Nov 17, 2000",2000-11-17,Etess Arena,"Atlantic City, New Jersey , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 27: Ultimate Bad Boyz,"Sep 22, 2000",2000-09-22,Lakefront Arena,"New Orleans, Louisiana , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 26: Ultimate Field of Dreams,"Jun 9, 2000",2000-06-09,Five Seasons Events Center,"Cedar Rapids, Iowa , U.S.","1,100",1100,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 25: Ultimate Japan 3,"Apr 14, 2000",2000-04-14,Yoyogi National Gymnasium,"Tokyo , Japan",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 24: First Defense,"Mar 10, 2000",2000-03-10,Lake Charles Civic Center,"Lake Charles, Louisiana , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 23: Ultimate Japan 2,"Nov 19, 1999",1999-11-19,Tokyo Bay NK Hall,"Chiba , Japan",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 22: Only One Can be Champion,"Sep 24, 1999",1999-09-24,Lake Charles Civic Center,"Lake Charles, Louisiana , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 21: Return of the Champions,"Jul 16, 1999",1999-07-16,Five Seasons Events Center,"Cedar Rapids, Iowa , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 20: Battle for the Gold,"May 7, 1999",1999-05-07,Boutwell Memorial Auditorium,"Birmingham, Alabama , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 19: Ultimate Young Guns,"Mar 5, 1999",1999-03-05,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 18: The Road to the Heavyweight Title,"Jan 8, 1999",1999-01-08,Pontchartrain Center,"New Orleans, Louisiana , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Brazil: Ultimate Brazil,"Oct 16, 1998",1998-10-16,Ginásio da Portuguesa,"São Paulo , Brazil",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 17: Redemption,"May 15, 1998",1998-05-15,Mobile Civic Center,"Mobile, Alabama , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 16: Battle in the Bayou,"Mar 13, 1998",1998-03-13,Pontchartrain Center,"New Orleans, Louisiana , U.S.","4,600",4600,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC Japan: Ultimate Japan,"Dec 21, 1997",1997-12-21,Yokohama Arena,"Yokohama , Japan","5,000",5000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 15: Collision Course,"Oct 17, 1997",1997-10-17,Casino Magic Bay St. Louis,"Bay St. Louis, Mississippi , U.S.",—,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 14: Showdown,"Jul 27, 1997",1997-07-27,Boutwell Memorial Auditorium,"Birmingham, Alabama , U.S.","5,000",5000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 13: The Ultimate Force,"May 30, 1997",1997-05-30,Augusta Civic Center,"Augusta, Georgia , U.S.","5,100",5100,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 12: Judgement Day,"Feb 7, 1997",1997-02-07,Dothan Civic Center,"Dothan, Alabama , U.S.","3,100",3100,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC: The Ultimate Ultimate 2,"Dec 7, 1996",1996-12-07,Fair Park Arena,"Birmingham, Alabama , U.S.","6,000",6000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 11: The Proving Ground,"Sep 20, 1996",1996-09-20,Augusta Civic Center,"Augusta, Georgia , U.S.","4,500",4500,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 10: The Tournament,"Jul 12, 1996",1996-07-12,Fair Park Arena,"Birmingham, Alabama , U.S.","4,300",4300,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 9: Motor City Madness,"May 17, 1996",1996-05-17,Cobo Arena,"Detroit, Michigan , U.S.","10,000",10000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 8: David vs. Goliath,"Feb 16, 1996",1996-02-16,Coliseo Rubén Rodríguez,"Bayamón , Puerto Rico","13,000",13000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC: The Ultimate Ultimate,"Dec 16, 1995",1995-12-16,Mammoth Gardens,"Denver, Colorado , U.S.","2,800",2800,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 7: The Brawl in Buffalo,"Sep 8, 1995",1995-09-08,Buffalo Memorial Auditorium,"Buffalo, New York , U.S.","9,000",9000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 6: Clash of the Titans,"Jul 14, 1995",1995-07-14,Casper Events Center,"Casper, Wyoming , U.S.","2,700",2700,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 5: The Return of the Beast,"Apr 7, 1995",1995-04-07,Independence Arena,"Charlotte, North Carolina , U.S.","6,000",6000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 4: Revenge of the Warriors,"Dec 16, 1994",1994-12-16,Expo Square Pavilion,"Tulsa, Oklahoma , U.S.","5,857",5857,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 3: The American Dream,"Sep 9, 1994",1994-09-09,Grady Cole Center,"Charlotte, North Carolina , U.S.","3,000",3000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 2: No Way Out,"Mar 11, 1994",1994-03-11,Mammoth Gardens,"Denver, Colorado , U.S.","2,000",2000,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
+UFC 1: The Beginning,"Nov 12, 1993",1993-11-12,McNichols Sports Arena,"7,800",[,,https://en.wikipedia.org/wiki/List_of_UFC_events,2026-08-18T23:24:49.320845+00:00
